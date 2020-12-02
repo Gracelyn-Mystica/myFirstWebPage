@@ -1,0 +1,31 @@
+body{
+    background-color:#ebebeb;
+}
+hr{
+    border-color:#050505;
+    border-style:none;
+    border-top-style: dotted;
+    border-width:2px;
+    width:4%;
+}
+h1{
+    color:#6f4a8e;
+}
+h3{
+    color:#6f4a8e;
+}
+strong{
+    color:#6f4a8e;
+}
+th{
+    color:#221f3b;
+}
+.tal{
+    font-style: italic;
+    
+    color:#6f4a8e;
+}
+footer{
+    bottom:0;
+    text-align: center;
+}
